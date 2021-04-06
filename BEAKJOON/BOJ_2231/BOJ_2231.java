@@ -1,4 +1,4 @@
-package BEAKJOON;
+package BEAKJOON.BOJ_2231;
 
 import java.io.BufferedReader;
 import java.io.IOException;
