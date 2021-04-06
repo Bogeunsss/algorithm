@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 
 public class Solution {
-	public static int[] solution(int[] numbers) {
+	public int[] solution(int[] numbers) {
 		int[] answer;
 		ArrayList<Integer> sum = new ArrayList<Integer>();
 		
