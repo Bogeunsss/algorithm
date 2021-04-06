@@ -1,4 +1,4 @@
-package BEAKJOON;
+package BEAKJOON.BOJ_10818;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
