@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Solution {
-    public static int[] solution(int[] arr, int divisor) {
+    public int[] solution(int[] arr, int divisor) {
         int[] answer;
         List<Integer> list = new ArrayList<Integer>();
 
@@ -23,12 +23,5 @@ public class Solution {
         }
 
         return answer;
-    }
-
-    public static void main(String[] args) {
-        int[] arr = {3, 2, 6};
-        int divisor = 10;
-
-        System.out.println(Arrays.toString(solution(arr, divisor)));
     }
 }
