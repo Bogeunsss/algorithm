@@ -22,3 +22,4 @@
 - [42576](https://programmers.co.kr/learn/courses/30/lessons/42576?language=java) | 완주하지 못한 선수
 - [42748](https://programmers.co.kr/learn/courses/30/lessons/42748?language=java) | K번째수
 - [42840](https://programmers.co.kr/learn/courses/30/lessons/42840?language=java) | 모의고사
+- [64061](https://programmers.co.kr/learn/courses/30/lessons/64061?language=java) | 크레인 인형뽑기 게임
