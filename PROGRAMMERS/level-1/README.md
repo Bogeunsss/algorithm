@@ -24,3 +24,5 @@
 - [42840](https://programmers.co.kr/learn/courses/30/lessons/42840?language=java) | 모의고사
 - [64061](https://programmers.co.kr/learn/courses/30/lessons/64061?language=java) | 크레인 인형뽑기 게임
 - [68644](https://programmers.co.kr/learn/courses/30/lessons/68644?language=java) | 두 개 뽑아서 더하기
+- [68935](https://programmers.co.kr/learn/courses/30/lessons/68935?language=java) | 3진법 뒤집기
+- [70128](https://programmers.co.kr/learn/courses/30/lessons/70128?language=java) | 내적
