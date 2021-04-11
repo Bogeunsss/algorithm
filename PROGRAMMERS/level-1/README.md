@@ -7,4 +7,5 @@
 - [12910](https://programmers.co.kr/learn/courses/30/lessons/12910?language=java) | 나누어 떨어지는 숫자 배열
 - [12912](https://programmers.co.kr/learn/courses/30/lessons/12912?language=java) | 두 정수 사이의 합
 - [12915](https://programmers.co.kr/learn/courses/30/lessons/12915?language=java) | 문자열 내 마음대로 정렬하기
+- [12916](https://programmers.co.kr/learn/courses/30/lessons/12916?language=java) | 문자열 내 p와 y의 개수
 
