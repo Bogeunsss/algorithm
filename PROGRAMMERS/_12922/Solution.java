@@ -1,7 +1,7 @@
 package PROGRAMMERS._12922;
 
 public class Solution {
-    public static String solution(int n) {
+    public String solution(int n) {
         StringBuilder answer = new StringBuilder();
         String waterMelon = "수박";
         if(n % 2 == 1) {
@@ -12,11 +12,5 @@ public class Solution {
         }
 
         return answer.toString();
-    }
-
-    public static void main(String[] args) {
-        int n = 2;
-
-        System.out.println(solution(n));
     }
 }
