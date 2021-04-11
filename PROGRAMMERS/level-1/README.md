@@ -17,3 +17,4 @@
 - [12926](https://programmers.co.kr/learn/courses/30/lessons/12926?language=java) | 시저 암호
 - [12928](https://programmers.co.kr/learn/courses/30/lessons/12928?language=java) | 약수의 합
 - [12930](https://programmers.co.kr/learn/courses/30/lessons/12930?language=java) | 이상한 문자 만들기
+- [12931](https://programmers.co.kr/learn/courses/30/lessons/12931?language=java) | 자릿수 더하기
