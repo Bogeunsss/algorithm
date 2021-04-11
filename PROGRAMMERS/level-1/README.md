@@ -12,4 +12,5 @@
 - [12918](https://programmers.co.kr/learn/courses/30/lessons/12918?language=java) | 문자열 다루기 기본
 - [12919](https://programmers.co.kr/learn/courses/30/lessons/12919?language=java) | 서울에서 김서방 찾기
 - [12921](https://programmers.co.kr/learn/courses/30/lessons/12921?language=java) | 소수 찾기
+- [12922](https://programmers.co.kr/learn/courses/30/lessons/12922?language=java) | 수박수박수박수박수박수?
 
