@@ -15,3 +15,4 @@
 - [12922](https://programmers.co.kr/learn/courses/30/lessons/12922?language=java) | 수박수박수박수박수박수?
 - [12925](https://programmers.co.kr/learn/courses/30/lessons/12925?language=java) | 문자열을 정수로 바꾸기
 - [12926](https://programmers.co.kr/learn/courses/30/lessons/12926?language=java) | 시저 암호
+- [12928](https://programmers.co.kr/learn/courses/30/lessons/12928?language=java) | 약수의 합
