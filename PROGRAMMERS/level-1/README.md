@@ -19,3 +19,4 @@
 - [12930](https://programmers.co.kr/learn/courses/30/lessons/12930?language=java) | 이상한 문자 만들기
 - [12931](https://programmers.co.kr/learn/courses/30/lessons/12931?language=java) | 자릿수 더하기
 - [12932](https://programmers.co.kr/learn/courses/30/lessons/12932?language=java) | 자연수 뒤집어 배열로 만들기
+- [42576](https://programmers.co.kr/learn/courses/30/lessons/42576?language=java) | 완주하지 못한 선수
