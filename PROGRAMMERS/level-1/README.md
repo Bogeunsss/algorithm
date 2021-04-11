@@ -16,3 +16,4 @@
 - [12925](https://programmers.co.kr/learn/courses/30/lessons/12925?language=java) | 문자열을 정수로 바꾸기
 - [12926](https://programmers.co.kr/learn/courses/30/lessons/12926?language=java) | 시저 암호
 - [12928](https://programmers.co.kr/learn/courses/30/lessons/12928?language=java) | 약수의 합
+- [12930](https://programmers.co.kr/learn/courses/30/lessons/12930?language=java) | 이상한 문자 만들기
