@@ -1,4 +1,4 @@
-package PROGRAMMERS._1845;
+package PROGRAMMERS.level_1._1845;
 
 import java.util.*;
 
