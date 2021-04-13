@@ -1,4 +1,4 @@
-package PROGRAMMERS._72410;
+package PROGRAMMERS.level_1._72410;
 
 public class Solution {
     public String solution(String new_id) {
