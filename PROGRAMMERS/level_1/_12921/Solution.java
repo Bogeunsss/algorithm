@@ -1,4 +1,4 @@
-package PROGRAMMERS._12921;
+package PROGRAMMERS.level_1._12921;
 
 public class Solution {
     public int solution(int n) {
