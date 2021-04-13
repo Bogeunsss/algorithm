@@ -1,4 +1,4 @@
-package PROGRAMMERS._42748;
+package PROGRAMMERS.level_1._42748;
 
 import java.util.Arrays;
 
