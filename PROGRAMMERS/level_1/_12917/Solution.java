@@ -1,4 +1,4 @@
-package PROGRAMMERS._12917;
+package PROGRAMMERS.level_1._12917;
 
 public class Solution {
     public String quickSort(String s) {
