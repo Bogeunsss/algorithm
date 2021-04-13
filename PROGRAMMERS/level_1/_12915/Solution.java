@@ -1,4 +1,4 @@
-package PROGRAMMERS._12915;
+package PROGRAMMERS.level_1._12915;
 
 import java.util.Arrays;
 import java.util.Comparator;
