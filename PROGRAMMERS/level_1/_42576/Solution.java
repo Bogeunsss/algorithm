@@ -1,4 +1,4 @@
-package PROGRAMMERS._42576;
+package PROGRAMMERS.level_1._42576;
 
 import java.util.HashMap;
 
