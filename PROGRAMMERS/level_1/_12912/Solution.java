@@ -1,4 +1,4 @@
-package PROGRAMMERS._12912;
+package PROGRAMMERS.level_1._12912;
 
 public class Solution {
     public long sum(int a, int b) {
