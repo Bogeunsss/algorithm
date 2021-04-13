@@ -1,4 +1,4 @@
-package PROGRAMMERS._70128;
+package PROGRAMMERS.level_1._70128;
 
 public class Solution {
     public int solution(int[] a, int[] b) {
