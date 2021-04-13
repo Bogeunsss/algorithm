@@ -1,4 +1,4 @@
-package PROGRAMMERS._68644;
+package PROGRAMMERS.level_1._68644;
 
 import java.util.ArrayList;
 import java.util.Comparator;
