@@ -1,4 +1,4 @@
-package PROGRAMMERS._12903;
+package PROGRAMMERS.level_1._12903;
 
 public class Solution {
     public String solution(String s) {
