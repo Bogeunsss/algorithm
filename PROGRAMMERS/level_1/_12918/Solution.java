@@ -1,4 +1,4 @@
-package PROGRAMMERS._12918;
+package PROGRAMMERS.level_1._12918;
 
 public class Solution {
     public boolean solution(String s) {
