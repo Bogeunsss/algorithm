@@ -20,6 +20,7 @@
 - [12931](https://programmers.co.kr/learn/courses/30/lessons/12931?language=java) | 자릿수 더하기
 - [12932](https://programmers.co.kr/learn/courses/30/lessons/12932?language=java) | 자연수 뒤집어 배열로 만들기
 - [12933](https://programmers.co.kr/learn/courses/30/lessons/12933?language=java) | 정수 내림차순으로 배치하기
+- [12934](https://programmers.co.kr/learn/courses/30/lessons/12934?language=java) | 정수 제곱근 판별
 - [42576](https://programmers.co.kr/learn/courses/30/lessons/42576?language=java) | 완주하지 못한 선수
 - [42748](https://programmers.co.kr/learn/courses/30/lessons/42748?language=java) | K번째수
 - [42840](https://programmers.co.kr/learn/courses/30/lessons/42840?language=java) | 모의고사
