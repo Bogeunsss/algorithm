@@ -1,4 +1,4 @@
-package PROGRAMMERS._12932;
+package PROGRAMMERS.level_1._12932;
 
 public class Solution {
     public int[] solution(long n) {
