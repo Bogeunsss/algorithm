@@ -1,6 +1,4 @@
-package PROGRAMMERS._12901;
-
-import java.util.Arrays;
+package PROGRAMMERS.level_1._12901;
 
 public class Solution {
     String[] weeks = {"THU", "FRI", "SAT", "SUN", "MON", "TUE", "WED"};
