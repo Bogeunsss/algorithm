@@ -1,4 +1,4 @@
-package PROGRAMMERS._12910;
+package PROGRAMMERS.level_1._12910;
 
 import java.util.ArrayList;
 import java.util.Arrays;
