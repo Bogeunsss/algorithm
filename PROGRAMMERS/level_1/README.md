@@ -30,6 +30,7 @@
 - [12948](https://programmers.co.kr/learn/courses/30/lessons/12948?language=java) | 핸드폰 번호 가리기
 - [12950](https://programmers.co.kr/learn/courses/30/lessons/12950?language=java) | 행렬의 덧셈
 - [12954](https://programmers.co.kr/learn/courses/30/lessons/12954?language=java) | x만큼 간격이 있는 n개의 숫자
+- [12969](https://programmers.co.kr/learn/courses/30/lessons/12969?language=java) | 직사각형 별찍기
 - [12977](https://programmers.co.kr/learn/courses/30/lessons/12977?language=java) | 소수 만들기
 - [42576](https://programmers.co.kr/learn/courses/30/lessons/42576?language=java) | 완주하지 못한 선수
 - [42748](https://programmers.co.kr/learn/courses/30/lessons/42748?language=java) | K번째수
