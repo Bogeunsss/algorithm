@@ -24,6 +24,7 @@
 - [12935](https://programmers.co.kr/learn/courses/30/lessons/12935?language=java) | 제일 작은 수 제거하기
 - [12937](https://programmers.co.kr/learn/courses/30/lessons/12937?language=java) | 짝수와 홀수
 - [12940](https://programmers.co.kr/learn/courses/30/lessons/12940?language=java) | 최대공약수와 최소공배수
+- [12943](https://programmers.co.kr/learn/courses/30/lessons/12943?language=java) | 콜라츠 추측
 - [42576](https://programmers.co.kr/learn/courses/30/lessons/42576?language=java) | 완주하지 못한 선수
 - [42748](https://programmers.co.kr/learn/courses/30/lessons/42748?language=java) | K번째수
 - [42840](https://programmers.co.kr/learn/courses/30/lessons/42840?language=java) | 모의고사
