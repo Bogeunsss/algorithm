@@ -25,6 +25,7 @@
 - [12937](https://programmers.co.kr/learn/courses/30/lessons/12937?language=java) | 짝수와 홀수
 - [12940](https://programmers.co.kr/learn/courses/30/lessons/12940?language=java) | 최대공약수와 최소공배수
 - [12943](https://programmers.co.kr/learn/courses/30/lessons/12943?language=java) | 콜라츠 추측
+- [12944](https://programmers.co.kr/learn/courses/30/lessons/12944?language=java) | 평균 구하기
 - [42576](https://programmers.co.kr/learn/courses/30/lessons/42576?language=java) | 완주하지 못한 선수
 - [42748](https://programmers.co.kr/learn/courses/30/lessons/42748?language=java) | K번째수
 - [42840](https://programmers.co.kr/learn/courses/30/lessons/42840?language=java) | 모의고사
