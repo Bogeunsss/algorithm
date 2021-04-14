@@ -29,6 +29,7 @@
 - [12947](https://programmers.co.kr/learn/courses/30/lessons/12947?language=java) | 하샤드 수
 - [12948](https://programmers.co.kr/learn/courses/30/lessons/12948?language=java) | 핸드폰 번호 가리기
 - [12950](https://programmers.co.kr/learn/courses/30/lessons/12950?language=java) | 행렬의 덧셈
+- [12954](https://programmers.co.kr/learn/courses/30/lessons/12954?language=java) | x만큼 간격이 있는 n개의 숫자
 - [42576](https://programmers.co.kr/learn/courses/30/lessons/42576?language=java) | 완주하지 못한 선수
 - [42748](https://programmers.co.kr/learn/courses/30/lessons/42748?language=java) | K번째수
 - [42840](https://programmers.co.kr/learn/courses/30/lessons/42840?language=java) | 모의고사
