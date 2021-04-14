@@ -27,6 +27,7 @@
 - [12943](https://programmers.co.kr/learn/courses/30/lessons/12943?language=java) | 콜라츠 추측
 - [12944](https://programmers.co.kr/learn/courses/30/lessons/12944?language=java) | 평균 구하기
 - [12947](https://programmers.co.kr/learn/courses/30/lessons/12947?language=java) | 하샤드 수
+- [12948](https://programmers.co.kr/learn/courses/30/lessons/12948?language=java) | 핸드폰 번호 가리기
 - [42576](https://programmers.co.kr/learn/courses/30/lessons/42576?language=java) | 완주하지 못한 선수
 - [42748](https://programmers.co.kr/learn/courses/30/lessons/42748?language=java) | K번째수
 - [42840](https://programmers.co.kr/learn/courses/30/lessons/42840?language=java) | 모의고사
