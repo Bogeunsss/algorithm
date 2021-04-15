@@ -16,7 +16,6 @@ public class Solution {
     }
     public int solution(int[] priorities, int location) {
         Queue<Work> works = new LinkedList<Work>();
-        int[] finished = new int[priorities.length];
         int index = 0;
 
         for(int i=0; i<priorities.length; i++) {
