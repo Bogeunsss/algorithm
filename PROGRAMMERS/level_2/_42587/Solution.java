@@ -14,7 +14,7 @@ public class Solution {
             this.location = location;
         }
     }
-    public static int solution(int[] priorities, int location) {
+    public int solution(int[] priorities, int location) {
         Queue<Work> works = new LinkedList<Work>();
         int[] finished = new int[priorities.length];
         int index = 0;
@@ -33,12 +33,5 @@ public class Solution {
             }
         }
         return priorities.length;
-    }
-
-    public static void main(String[] args) {
-        int[] priorities = {1, 1, 9, 1, 1, 1};
-        int location = 0;
-
-        System.out.println(solution(priorities, location));
     }
 }
