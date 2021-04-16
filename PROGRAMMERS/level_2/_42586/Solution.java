@@ -3,7 +3,7 @@ package PROGRAMMERS.level_2._42586;
 import java.util.*;
 
 public class Solution {
-    public static int[] solution(int[] progresses, int[] speeds) {
+    public int[] solution(int[] progresses, int[] speeds) {
         List<Integer> fin = new ArrayList<Integer>();
 
         for(int i=0; i<progresses.length; i++) {
@@ -29,12 +29,5 @@ public class Solution {
         for(int k=0; k<fin.size(); k++) answer[k] = fin.get(k);
 
         return answer;
-    }
-
-    public static void main(String[] args) {
-        int[] progresses = {98, 99, 97, 96};
-        int[] speeds = {1, 1, 1, 1};
-
-        System.out.println(Arrays.toString(solution(progresses, speeds)));
     }
 }
