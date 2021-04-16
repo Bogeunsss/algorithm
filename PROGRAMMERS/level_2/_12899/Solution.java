@@ -1,7 +1,7 @@
 package PROGRAMMERS.level_2._12899;
 
 public class Solution {
-    public static String solution(int n) {
+    public String solution(int n) {
         StringBuilder answer = new StringBuilder();
         char[] base = {'4', '1', '2'};
 
@@ -13,9 +13,5 @@ public class Solution {
         }
 
         return answer.reverse().toString();
-    }
-
-    public static void main(String[] args) {
-        System.out.println(solution(6));
     }
 }
