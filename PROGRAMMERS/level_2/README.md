@@ -7,3 +7,4 @@
 - [42586](https://programmers.co.kr/learn/courses/30/lessons/42586?language=java) | 기능개발
 - [42587](https://programmers.co.kr/learn/courses/30/lessons/42587?language=java) | 프린터
 - [42839](https://programmers.co.kr/learn/courses/30/lessons/42839?language=java) | 소수찾기
+- [72411](https://programmers.co.kr/learn/courses/30/lessons/72411?language=java) | 메뉴 리뉴얼
