@@ -9,4 +9,5 @@
 - [42626](https://programmers.co.kr/learn/courses/30/lessons/42626?language=java) | 더 맵게
 - [42839](https://programmers.co.kr/learn/courses/30/lessons/42839?language=java) | 소수찾기
 - [42860](https://programmers.co.kr/learn/courses/30/lessons/42860?language=java) | 조이스틱
+- [42883](https://programmers.co.kr/learn/courses/30/lessons/42883?language=java) | 큰 수 만들기
 - [72411](https://programmers.co.kr/learn/courses/30/lessons/72411?language=java) | 메뉴 리뉴얼
