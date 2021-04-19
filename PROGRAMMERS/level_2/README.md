@@ -11,4 +11,5 @@
 - [42839](https://programmers.co.kr/learn/courses/30/lessons/42839?language=java) | 소수찾기
 - [42860](https://programmers.co.kr/learn/courses/30/lessons/42860?language=java) | 조이스틱
 - [42883](https://programmers.co.kr/learn/courses/30/lessons/42883?language=java) | 큰 수 만들기
+- [42885](https://programmers.co.kr/learn/courses/30/lessons/42885?language=java) | 구명보트
 - [72411](https://programmers.co.kr/learn/courses/30/lessons/72411?language=java) | 메뉴 리뉴얼
