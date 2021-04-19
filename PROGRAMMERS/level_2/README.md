@@ -10,6 +10,7 @@
 - [42587](https://programmers.co.kr/learn/courses/30/lessons/42587?language=java) | 프린터
 - [42626](https://programmers.co.kr/learn/courses/30/lessons/42626?language=java) | 더 맵게
 - [42839](https://programmers.co.kr/learn/courses/30/lessons/42839?language=java) | 소수찾기
+- [42842](https://programmers.co.kr/learn/courses/30/lessons/42842?language=java) | 카펫
 - [42860](https://programmers.co.kr/learn/courses/30/lessons/42860?language=java) | 조이스틱
 - [42883](https://programmers.co.kr/learn/courses/30/lessons/42883?language=java) | 큰 수 만들기
 - [42885](https://programmers.co.kr/learn/courses/30/lessons/42885?language=java) | 구명보트
