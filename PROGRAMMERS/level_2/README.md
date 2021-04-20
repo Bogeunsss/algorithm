@@ -2,6 +2,7 @@
 
 - [1829](https://programmers.co.kr/learn/courses/30/lessons/1829?language=java) | 카카오프렌즈 컬러링북
 - [1835](https://programmers.co.kr/learn/courses/30/lessons/1835?language=java) | 단체사진 찍기
+- [1844](https://programmers.co.kr/learn/courses/30/lessons/1844?language=java) | 게임 맵 최단거리
 - [12899](https://programmers.co.kr/learn/courses/30/lessons/12899?language=java) | 124 나라의 숫자
 - [12905](https://programmers.co.kr/learn/courses/30/lessons/12905?language=java) | 가장 큰 정사각형 찾기
 - [12909](https://programmers.co.kr/learn/courses/30/lessons/12909?language=java) | 올바른 괄호
