@@ -4,6 +4,7 @@
 - [1835](https://programmers.co.kr/learn/courses/30/lessons/1835?language=java) | 단체사진 찍기
 - [12899](https://programmers.co.kr/learn/courses/30/lessons/12899?language=java) | 124 나라의 숫자
 - [12905](https://programmers.co.kr/learn/courses/30/lessons/12905?language=java) | 가장 큰 정사각형 찾기
+- [12909](https://programmers.co.kr/learn/courses/30/lessons/12909?language=java) | 올바른 괄호
 - [42577](https://programmers.co.kr/learn/courses/30/lessons/42577?language=java) | 전화번호 목록
 - [42578](https://programmers.co.kr/learn/courses/30/lessons/42578?language=java) | 위장
 - [42583](https://programmers.co.kr/learn/courses/30/lessons/42583?language=java) | 다리를 지나는 트럭
