@@ -21,6 +21,7 @@
 - [42883](https://programmers.co.kr/learn/courses/30/lessons/42883?language=java) | 큰 수 만들기
 - [42885](https://programmers.co.kr/learn/courses/30/lessons/42885?language=java) | 구명보트
 - [43165](https://programmers.co.kr/learn/courses/30/lessons/43165?language=java) | 타겟 넘버
+- [49993](https://programmers.co.kr/learn/courses/30/lessons/49993?language=java) | 스킬트리
 - [64065](https://programmers.co.kr/learn/courses/30/lessons/64065?language=java) | 튜플
 - [72411](https://programmers.co.kr/learn/courses/30/lessons/72411?language=java) | 메뉴 리뉴얼
 - [72412](https://programmers.co.kr/learn/courses/30/lessons/72412?language=java) | 순위 검색
