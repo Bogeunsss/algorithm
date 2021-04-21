@@ -29,3 +29,4 @@
 - [70129](https://programmers.co.kr/learn/courses/30/lessons/70129?language=java) | 이진 변환 반복하기
 - [72411](https://programmers.co.kr/learn/courses/30/lessons/72411?language=java) | 메뉴 리뉴얼
 - [72412](https://programmers.co.kr/learn/courses/30/lessons/72412?language=java) | 순위 검색
+- [76502](https://programmers.co.kr/learn/courses/30/lessons/76502?language=java) | 괄호 회전하기
