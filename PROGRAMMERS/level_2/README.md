@@ -23,5 +23,6 @@
 - [43165](https://programmers.co.kr/learn/courses/30/lessons/43165?language=java) | 타겟 넘버
 - [49993](https://programmers.co.kr/learn/courses/30/lessons/49993?language=java) | 스킬트리
 - [64065](https://programmers.co.kr/learn/courses/30/lessons/64065?language=java) | 튜플
+- [70129](https://programmers.co.kr/learn/courses/30/lessons/70129?language=java) | 이진 변환 반복하기
 - [72411](https://programmers.co.kr/learn/courses/30/lessons/72411?language=java) | 메뉴 리뉴얼
 - [72412](https://programmers.co.kr/learn/courses/30/lessons/72412?language=java) | 순위 검색
