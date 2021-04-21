@@ -9,6 +9,7 @@
 - [12911](https://programmers.co.kr/learn/courses/30/lessons/12911?language=java) | 다음 큰 숫자
 - [12913](https://programmers.co.kr/learn/courses/30/lessons/12913?language=java) | 땅따먹기
 - [12978](https://programmers.co.kr/learn/courses/30/lessons/12978?language=java) | 배달
+- [12981](https://programmers.co.kr/learn/courses/30/lessons/12981?language=java) | 영어 끝말잇기
 - [42577](https://programmers.co.kr/learn/courses/30/lessons/42577?language=java) | 전화번호 목록
 - [42578](https://programmers.co.kr/learn/courses/30/lessons/42578?language=java) | 위장
 - [42583](https://programmers.co.kr/learn/courses/30/lessons/42583?language=java) | 다리를 지나는 트럭
@@ -24,6 +25,8 @@
 - [43165](https://programmers.co.kr/learn/courses/30/lessons/43165?language=java) | 타겟 넘버
 - [49993](https://programmers.co.kr/learn/courses/30/lessons/49993?language=java) | 스킬트리
 - [64065](https://programmers.co.kr/learn/courses/30/lessons/64065?language=java) | 튜플
+- [68645](https://programmers.co.kr/learn/courses/30/lessons/68645?language=java) | 삼각 달팽이
 - [70129](https://programmers.co.kr/learn/courses/30/lessons/70129?language=java) | 이진 변환 반복하기
 - [72411](https://programmers.co.kr/learn/courses/30/lessons/72411?language=java) | 메뉴 리뉴얼
 - [72412](https://programmers.co.kr/learn/courses/30/lessons/72412?language=java) | 순위 검색
+- [76502](https://programmers.co.kr/learn/courses/30/lessons/76502?language=java) | 괄호 회전하기
