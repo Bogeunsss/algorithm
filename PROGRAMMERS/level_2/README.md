@@ -25,6 +25,7 @@
 - [42885](https://programmers.co.kr/learn/courses/30/lessons/42885?language=java) | 구명보트
 - [43165](https://programmers.co.kr/learn/courses/30/lessons/43165?language=java) | 타겟 넘버
 - [49993](https://programmers.co.kr/learn/courses/30/lessons/49993?language=java) | 스킬트리
+- [49994](https://programmers.co.kr/learn/courses/30/lessons/49994?language=java) | 방문 길이
 - [64065](https://programmers.co.kr/learn/courses/30/lessons/64065?language=java) | 튜플
 - [68645](https://programmers.co.kr/learn/courses/30/lessons/68645?language=java) | 삼각 달팽이
 - [70129](https://programmers.co.kr/learn/courses/30/lessons/70129?language=java) | 이진 변환 반복하기
