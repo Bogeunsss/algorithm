@@ -10,6 +10,7 @@
 - [12913](https://programmers.co.kr/learn/courses/30/lessons/12913?language=java) | 땅따먹기
 - [12924](https://programmers.co.kr/learn/courses/30/lessons/12924?language=java) | 숫자의 표현
 - [12939](https://programmers.co.kr/learn/courses/30/lessons/12939?language=java) | 최댓값과 최솟값
+- [12941](https://programmers.co.kr/learn/courses/30/lessons/12941?language=java) | 최솟값 만들기
 - [12978](https://programmers.co.kr/learn/courses/30/lessons/12978?language=java) | 배달
 - [12980](https://programmers.co.kr/learn/courses/30/lessons/12980?language=java) | 점프와 순간 이동
 - [12981](https://programmers.co.kr/learn/courses/30/lessons/12981?language=java) | 영어 끝말잇기
