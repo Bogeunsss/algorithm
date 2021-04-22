@@ -28,6 +28,7 @@
 - [49994](https://programmers.co.kr/learn/courses/30/lessons/49994?language=java) | 방문 길이
 - [64065](https://programmers.co.kr/learn/courses/30/lessons/64065?language=java) | 튜플
 - [68645](https://programmers.co.kr/learn/courses/30/lessons/68645?language=java) | 삼각 달팽이
+- [68936](https://programmers.co.kr/learn/courses/30/lessons/68936?language=java) | 쿼드압축 후 개수 세기
 - [70129](https://programmers.co.kr/learn/courses/30/lessons/70129?language=java) | 이진 변환 반복하기
 - [72411](https://programmers.co.kr/learn/courses/30/lessons/72411?language=java) | 메뉴 리뉴얼
 - [72412](https://programmers.co.kr/learn/courses/30/lessons/72412?language=java) | 순위 검색
