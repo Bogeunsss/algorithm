@@ -13,6 +13,7 @@
 - [12941](https://programmers.co.kr/learn/courses/30/lessons/12941?language=java) | 최솟값 만들기
 - [12945](https://programmers.co.kr/learn/courses/30/lessons/12945?language=java) | 피보나치 수
 - [12949](https://programmers.co.kr/learn/courses/30/lessons/12949?language=java) | 행렬의 곱셈
+- [12951](https://programmers.co.kr/learn/courses/30/lessons/12951?language=java) | jadenCase 문자열 만들기
 - [12978](https://programmers.co.kr/learn/courses/30/lessons/12978?language=java) | 배달
 - [12980](https://programmers.co.kr/learn/courses/30/lessons/12980?language=java) | 점프와 순간 이동
 - [12981](https://programmers.co.kr/learn/courses/30/lessons/12981?language=java) | 영어 끝말잇기
