@@ -33,6 +33,7 @@
 - [49994](https://programmers.co.kr/learn/courses/30/lessons/49994?language=java) | 방문 길이
 - [62048](https://programmers.co.kr/learn/courses/30/lessons/62048?language=java) | 멀쩡한 사각형
 - [64065](https://programmers.co.kr/learn/courses/30/lessons/64065?language=java) | 튜플
+- [67257](https://programmers.co.kr/learn/courses/30/lessons/67257?language=java) | 수식 최대화
 - [68645](https://programmers.co.kr/learn/courses/30/lessons/68645?language=java) | 삼각 달팽이
 - [68936](https://programmers.co.kr/learn/courses/30/lessons/68936?language=java) | 쿼드압축 후 개수 세기
 - [70129](https://programmers.co.kr/learn/courses/30/lessons/70129?language=java) | 이진 변환 반복하기
