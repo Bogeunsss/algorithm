@@ -15,6 +15,7 @@
 - [12949](https://programmers.co.kr/learn/courses/30/lessons/12949?language=java) | 행렬의 곱셈
 - [12951](https://programmers.co.kr/learn/courses/30/lessons/12951?language=java) | jadenCase 문자열 만들기
 - [12953](https://programmers.co.kr/learn/courses/30/lessons/12953?language=java) | N개의 최소공배수
+- [12973](https://programmers.co.kr/learn/courses/30/lessons/12973?language=java) | 짝지어 제거하기
 - [12978](https://programmers.co.kr/learn/courses/30/lessons/12978?language=java) | 배달
 - [12980](https://programmers.co.kr/learn/courses/30/lessons/12980?language=java) | 점프와 순간 이동
 - [12981](https://programmers.co.kr/learn/courses/30/lessons/12981?language=java) | 영어 끝말잇기
