@@ -19,6 +19,7 @@
 - [12978](https://programmers.co.kr/learn/courses/30/lessons/12978?language=java) | 배달
 - [12980](https://programmers.co.kr/learn/courses/30/lessons/12980?language=java) | 점프와 순간 이동
 - [12981](https://programmers.co.kr/learn/courses/30/lessons/12981?language=java) | 영어 끝말잇기
+- [12985](https://programmers.co.kr/learn/courses/30/lessons/12985?language=java) | 예상 대진표
 - [42577](https://programmers.co.kr/learn/courses/30/lessons/42577?language=java) | 전화번호 목록
 - [42578](https://programmers.co.kr/learn/courses/30/lessons/42578?language=java) | 위장
 - [42583](https://programmers.co.kr/learn/courses/30/lessons/42583?language=java) | 다리를 지나는 트럭
