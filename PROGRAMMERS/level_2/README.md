@@ -35,6 +35,7 @@
 - [42860](https://programmers.co.kr/learn/courses/30/lessons/42860?language=java) | 조이스틱
 - [42883](https://programmers.co.kr/learn/courses/30/lessons/42883?language=java) | 큰 수 만들기
 - [42885](https://programmers.co.kr/learn/courses/30/lessons/42885?language=java) | 구명보트
+- [42888](https://programmers.co.kr/learn/courses/30/lessons/42888?language=java) | 오픈채팅방
 - [43165](https://programmers.co.kr/learn/courses/30/lessons/43165?language=java) | 타겟 넘버
 - [49993](https://programmers.co.kr/learn/courses/30/lessons/49993?language=java) | 스킬트리
 - [49994](https://programmers.co.kr/learn/courses/30/lessons/49994?language=java) | 방문 길이
