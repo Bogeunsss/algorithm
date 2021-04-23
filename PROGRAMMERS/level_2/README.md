@@ -21,6 +21,7 @@
 - [12981](https://programmers.co.kr/learn/courses/30/lessons/12981?language=java) | 영어 끝말잇기
 - [12985](https://programmers.co.kr/learn/courses/30/lessons/12985?language=java) | 예상 대진표
 - [17677](https://programmers.co.kr/learn/courses/30/lessons/17677?language=java) | [1차] 뉴스 클러스터링
+- [17679](https://programmers.co.kr/learn/courses/30/lessons/17679?language=java) | [1차] 프렌즈4블록
 - [42577](https://programmers.co.kr/learn/courses/30/lessons/42577?language=java) | 전화번호 목록
 - [42578](https://programmers.co.kr/learn/courses/30/lessons/42578?language=java) | 위장
 - [42583](https://programmers.co.kr/learn/courses/30/lessons/42583?language=java) | 다리를 지나는 트럭
