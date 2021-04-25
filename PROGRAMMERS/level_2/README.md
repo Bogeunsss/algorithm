@@ -26,6 +26,7 @@
 - [17683](https://programmers.co.kr/learn/courses/30/lessons/17683?language=java) | [3차] 방금그곡
 - [17684](https://programmers.co.kr/learn/courses/30/lessons/17684?language=java) | [3차] 압축
 - [17686](https://programmers.co.kr/learn/courses/30/lessons/17686?language=java) | [3차] 파일명 정렬
+- [17687](https://programmers.co.kr/learn/courses/30/lessons/17687?language=java) | [3차] n진수 게임
 - [42577](https://programmers.co.kr/learn/courses/30/lessons/42577?language=java) | 전화번호 목록
 - [42578](https://programmers.co.kr/learn/courses/30/lessons/42578?language=java) | 위장
 - [42583](https://programmers.co.kr/learn/courses/30/lessons/42583?language=java) | 다리를 지나는 트럭
