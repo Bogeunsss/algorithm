@@ -6,3 +6,4 @@
 - [42895](https://programmers.co.kr/learn/courses/30/lessons/42895?language=java) | N으로 표현
 - [43162](https://programmers.co.kr/learn/courses/30/lessons/43162?language=java) | 네트워크
 - [43163](https://programmers.co.kr/learn/courses/30/lessons/43163?language=java) | 단어 변환
+- [43164](https://programmers.co.kr/learn/courses/30/lessons/43164?language=java) | 여행경로
