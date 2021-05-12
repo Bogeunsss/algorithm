@@ -7,3 +7,4 @@
 - [43162](https://programmers.co.kr/learn/courses/30/lessons/43162?language=java) | 네트워크
 - [43163](https://programmers.co.kr/learn/courses/30/lessons/43163?language=java) | 단어 변환
 - [43164](https://programmers.co.kr/learn/courses/30/lessons/43164?language=java) | 여행경로
+- [49189](https://programmers.co.kr/learn/courses/30/lessons/49189?language=java) | 가장 먼 노드
