@@ -2,6 +2,7 @@
 
 - [12900](https://programmers.co.kr/learn/courses/30/lessons/12900?language=java) | 2 x n 타일링
 - [17676](https://programmers.co.kr/learn/courses/30/lessons/17676?language=java) | [1차] 추석 트래픽
+- [42627](https://programmers.co.kr/learn/courses/30/lessons/42627?language=java) | 디스크 컨트롤러
 - [42861](https://programmers.co.kr/learn/courses/30/lessons/42861?language=java) | 섬 연결하기
 - [42895](https://programmers.co.kr/learn/courses/30/lessons/42895?language=java) | N으로 표현
 - [43162](https://programmers.co.kr/learn/courses/30/lessons/43162?language=java) | 네트워크
