@@ -10,3 +10,4 @@
 - [43164](https://programmers.co.kr/learn/courses/30/lessons/43164?language=java) | 여행경로
 - [43238](https://programmers.co.kr/learn/courses/30/lessons/43238?language=java) | 입국심사
 - [49189](https://programmers.co.kr/learn/courses/30/lessons/49189?language=java) | 가장 먼 노드
+- [49191](https://programmers.co.kr/learn/courses/30/lessons/49191?language=java) | 순위
