@@ -11,3 +11,4 @@
 - [43238](https://programmers.co.kr/learn/courses/30/lessons/43238?language=java) | 입국심사
 - [49189](https://programmers.co.kr/learn/courses/30/lessons/49189?language=java) | 가장 먼 노드
 - [49191](https://programmers.co.kr/learn/courses/30/lessons/49191?language=java) | 순위
+- [67258](https://programmers.co.kr/learn/courses/30/lessons/67258?language=java) | 보석 쇼핑
