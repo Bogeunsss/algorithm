@@ -1,5 +1,6 @@
 # Problems
 
+- [1836](https://programmers.co.kr/learn/courses/30/lessons/1836?language=java) | 리틀 프렌즈 사천성
 - [12900](https://programmers.co.kr/learn/courses/30/lessons/12900?language=java) | 2 x n 타일링
 - [17676](https://programmers.co.kr/learn/courses/30/lessons/17676?language=java) | [1차] 추석 트래픽
 - [42627](https://programmers.co.kr/learn/courses/30/lessons/42627?language=java) | 디스크 컨트롤러
