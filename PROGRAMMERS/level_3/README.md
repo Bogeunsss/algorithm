@@ -7,6 +7,7 @@
 - [42628](https://programmers.co.kr/learn/courses/30/lessons/42628?language=java) | 이중우선순위큐
 - [42861](https://programmers.co.kr/learn/courses/30/lessons/42861?language=java) | 섬 연결하기
 - [42895](https://programmers.co.kr/learn/courses/30/lessons/42895?language=java) | N으로 표현
+- [42898](https://programmers.co.kr/learn/courses/30/lessons/42898?language=java) | 등굣길
 - [43105](https://programmers.co.kr/learn/courses/30/lessons/43105?language=java) | 정수 삼각형
 - [43162](https://programmers.co.kr/learn/courses/30/lessons/43162?language=java) | 네트워크
 - [43163](https://programmers.co.kr/learn/courses/30/lessons/43163?language=java) | 단어 변환
