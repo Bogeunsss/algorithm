@@ -4,6 +4,7 @@
 - [12900](https://programmers.co.kr/learn/courses/30/lessons/12900?language=java) | 2 x n 타일링
 - [17676](https://programmers.co.kr/learn/courses/30/lessons/17676?language=java) | [1차] 추석 트래픽
 - [17678](https://programmers.co.kr/learn/courses/30/lessons/17678?language=java) | [1차] 셔틀버스
+- [42579](https://programmers.co.kr/learn/courses/30/lessons/42579?language=java) | 베스트앨범
 - [42627](https://programmers.co.kr/learn/courses/30/lessons/42627?language=java) | 디스크 컨트롤러
 - [42628](https://programmers.co.kr/learn/courses/30/lessons/42628?language=java) | 이중우선순위큐
 - [42861](https://programmers.co.kr/learn/courses/30/lessons/42861?language=java) | 섬 연결하기
