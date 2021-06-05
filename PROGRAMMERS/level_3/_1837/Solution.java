@@ -5,7 +5,7 @@ import java.util.*;
 public class Solution {
     final static float infinity = Float.POSITIVE_INFINITY;
 
-    public static int solution(int n, int m, int[][] edge_list, int k, int[] gps_log) {
+    public int solution(int n, int m, int[][] edge_list, int k, int[] gps_log) {
         List<List<Integer>> graph = new ArrayList<>();
         float[][] dp = new float[k][n+1];
         int start = gps_log[0];
@@ -40,14 +40,5 @@ public class Solution {
         }
 
         return dp[k-1][end] != infinity ? (int) dp[k-1][end] : -1;
-    }
-
-    public static void main(String[] args) {
-        int n = 7;
-        int m = 10;
-        int[][] edge_list = {{1,2},{1,3},{2,3},{2,4},{3,4},{3,5},{4,6},{5,6},{5,7},{6,7}};
-        int k = 6;
-        int[] gps_log = {1,2,3,3,6,7};
-        System.out.println(solution(n, m, edge_list, k, gps_log));
     }
 }
