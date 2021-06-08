@@ -11,6 +11,7 @@
 - [42627](https://programmers.co.kr/learn/courses/30/lessons/42627?language=java) | 디스크 컨트롤러
 - [42628](https://programmers.co.kr/learn/courses/30/lessons/42628?language=java) | 이중우선순위큐
 - [42861](https://programmers.co.kr/learn/courses/30/lessons/42861?language=java) | 섬 연결하기
+- [42892](https://programmers.co.kr/learn/courses/30/lessons/42892?language=java) | 길 찾기 게임
 - [42895](https://programmers.co.kr/learn/courses/30/lessons/42895?language=java) | N으로 표현
 - [42898](https://programmers.co.kr/learn/courses/30/lessons/42898?language=java) | 등굣길
 - [43105](https://programmers.co.kr/learn/courses/30/lessons/43105?language=java) | 정수 삼각형
