@@ -25,4 +25,5 @@
 - [60059](https://programmers.co.kr/learn/courses/30/lessons/60059?language=java) | 자물쇠와 열쇠
 - [64064](https://programmers.co.kr/learn/courses/30/lessons/64064?language=java) | 불량 사용자
 - [67258](https://programmers.co.kr/learn/courses/30/lessons/67258?language=java) | 보석 쇼핑
+- [72413](https://programmers.co.kr/learn/courses/30/lessons/72413?language=java) | 합승 택시 요금
 - [77486](https://programmers.co.kr/learn/courses/30/lessons/77486?language=java) | 다단계 칫솔 판매
