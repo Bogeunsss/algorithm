@@ -1,6 +1,7 @@
 # Problems
 
 - [1830](https://programmers.co.kr/learn/courses/30/lessons/1830?language=java) | 브라이언의 고민
+- [1832](https://programmers.co.kr/learn/courses/30/lessons/1832?language=java) | 보행자 천국
 - [1836](https://programmers.co.kr/learn/courses/30/lessons/1836?language=java) | 리틀 프렌즈 사천성
 - [1837](https://programmers.co.kr/learn/courses/30/lessons/1837?language=java) | GPS
 - [12900](https://programmers.co.kr/learn/courses/30/lessons/12900?language=java) | 2 x n 타일링
