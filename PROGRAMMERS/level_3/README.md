@@ -12,6 +12,7 @@
 - [42627](https://programmers.co.kr/learn/courses/30/lessons/42627?language=java) | 디스크 컨트롤러
 - [42628](https://programmers.co.kr/learn/courses/30/lessons/42628?language=java) | 이중우선순위큐
 - [42861](https://programmers.co.kr/learn/courses/30/lessons/42861?language=java) | 섬 연결하기
+- [42884](https://programmers.co.kr/learn/courses/30/lessons/42884?language=java) | 단속카메라
 - [42892](https://programmers.co.kr/learn/courses/30/lessons/42892?language=java) | 길 찾기 게임
 - [42893](https://programmers.co.kr/learn/courses/30/lessons/42893?language=java) | 매칭 점수
 - [42895](https://programmers.co.kr/learn/courses/30/lessons/42895?language=java) | N으로 표현
