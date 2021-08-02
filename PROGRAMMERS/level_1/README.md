@@ -47,4 +47,5 @@
 - [72410](https://programmers.co.kr/learn/courses/30/lessons/72410?language=java) | 신규 아이디 추천
 - [76501](https://programmers.co.kr/learn/courses/30/lessons/76501?language=java) | 음양 더하기
 - [77484](https://programmers.co.kr/learn/courses/30/lessons/77484?language=java) | 로또의 최고 순위와 최저 순위
+- [81301](https://programmers.co.kr/learn/courses/30/lessons/81301?language=java) | 숫자 문자열과 영단어
 - [82612](https://programmers.co.kr/learn/courses/30/lessons/82612?language=java) | 1주차
