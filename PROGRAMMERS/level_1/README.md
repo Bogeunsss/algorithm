@@ -45,3 +45,4 @@
 - [68935](https://programmers.co.kr/learn/courses/30/lessons/68935?language=java) | 3진법 뒤집기
 - [70128](https://programmers.co.kr/learn/courses/30/lessons/70128?language=java) | 내적
 - [72410](https://programmers.co.kr/learn/courses/30/lessons/72410?language=java) | 신규 아이디 추천
+- [82612](https://programmers.co.kr/learn/courses/30/lessons/82612?language=java) | 1주차
