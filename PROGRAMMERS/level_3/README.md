@@ -7,6 +7,7 @@
 - [12900](https://programmers.co.kr/learn/courses/30/lessons/12900?language=java) | 2 x n 타일링
 - [12904](https://programmers.co.kr/learn/courses/30/lessons/12904?language=java) | 가장 긴 팰린드롬
 - [12907](https://programmers.co.kr/learn/courses/30/lessons/12907?language=java) | 거스름돈
+- [12946](https://programmers.co.kr/learn/courses/30/lessons/12946?language=java) | 하노이의 탑
 - [17676](https://programmers.co.kr/learn/courses/30/lessons/17676?language=java) | [1차] 추석 트래픽
 - [17678](https://programmers.co.kr/learn/courses/30/lessons/17678?language=java) | [1차] 셔틀버스
 - [42579](https://programmers.co.kr/learn/courses/30/lessons/42579?language=java) | 베스트앨범
