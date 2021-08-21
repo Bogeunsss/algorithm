@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 
 public class Solution {
 
-    public static long solution(int n, int[] works) {
+    public long solution(int n, int[] works) {
         long answer = 0;
         PriorityQueue<Integer> pq = new PriorityQueue<>(new Comparator<Integer>() {
             @Override
@@ -27,11 +27,5 @@ public class Solution {
         }
 
         return answer;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(solution(4, new int[]{4,3,3}));
-        System.out.println(solution(1, new int[]{2,1,2}));
-        System.out.println(solution(3, new int[]{1,1}));
     }
 }
