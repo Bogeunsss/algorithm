@@ -9,6 +9,7 @@
 - [12907](https://programmers.co.kr/learn/courses/30/lessons/12907?language=java) | 거스름돈
 - [12914](https://programmers.co.kr/learn/courses/30/lessons/12914?language=java) | 멀리 뛰기
 - [12927](https://programmers.co.kr/learn/courses/30/lessons/12927?language=java) | 야근 지수
+- [12936](https://programmers.co.kr/learn/courses/30/lessons/12936?language=java) | 줄 서는 방법
 - [12938](https://programmers.co.kr/learn/courses/30/lessons/12938?language=java) | 최고의 집합
 - [12946](https://programmers.co.kr/learn/courses/30/lessons/12946?language=java) | 하노이의 탑
 - [17676](https://programmers.co.kr/learn/courses/30/lessons/17676?language=java) | [1차] 추석 트래픽
