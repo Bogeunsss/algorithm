@@ -37,6 +37,7 @@
 - [67259](https://programmers.co.kr/learn/courses/30/lessons/67259?language=java) | 경주로 건설
 - [72413](https://programmers.co.kr/learn/courses/30/lessons/72413?language=java) | 합승 택시 요금
 - [72414](https://programmers.co.kr/learn/courses/30/lessons/72414?language=java) | 광고 삽입
+- [72415](https://programmers.co.kr/learn/courses/30/lessons/72415?language=java) | 카드 짝 맞추기
 - [76503](https://programmers.co.kr/learn/courses/30/lessons/76503?language=java) | 모두 0으로 만들기
 - [77486](https://programmers.co.kr/learn/courses/30/lessons/77486?language=java) | 다단계 칫솔 판매
 - [81303](https://programmers.co.kr/learn/courses/30/lessons/81303?language=java) | 표 편집
