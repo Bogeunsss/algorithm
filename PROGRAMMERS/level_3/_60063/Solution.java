@@ -143,7 +143,7 @@ public class Solution {
         return ret;
     }
 
-    public static int solution(int[][] board) {
+    public int solution(int[][] board) {
         return bfs(board);
     }
 }
