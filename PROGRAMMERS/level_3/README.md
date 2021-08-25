@@ -13,7 +13,7 @@
 - [12938](https://programmers.co.kr/learn/courses/30/lessons/12938?language=java) | 최고의 집합
 - [12946](https://programmers.co.kr/learn/courses/30/lessons/12946?language=java) | 하노이의 탑
 - [12952](https://programmers.co.kr/learn/courses/30/lessons/12952?language=java) | N-Queen
-- [12979](https://programmers.co.kr/learn/courses/30/lessons/12952?language=java) | 기지국 설치
+- [12979](https://programmers.co.kr/learn/courses/30/lessons/12979?language=java) | 기지국 설치
 - [17676](https://programmers.co.kr/learn/courses/30/lessons/17676?language=java) | [1차] 추석 트래픽
 - [17678](https://programmers.co.kr/learn/courses/30/lessons/17678?language=java) | [1차] 셔틀버스
 - [42579](https://programmers.co.kr/learn/courses/30/lessons/42579?language=java) | 베스트앨범
