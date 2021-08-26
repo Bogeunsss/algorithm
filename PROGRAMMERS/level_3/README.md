@@ -13,6 +13,7 @@
 - [12938](https://programmers.co.kr/learn/courses/30/lessons/12938?language=java) | 최고의 집합
 - [12946](https://programmers.co.kr/learn/courses/30/lessons/12946?language=java) | 하노이의 탑
 - [12952](https://programmers.co.kr/learn/courses/30/lessons/12952?language=java) | N-Queen
+- [12971](https://programmers.co.kr/learn/courses/30/lessons/12971?language=java) | 스티커 모으기(2)
 - [12979](https://programmers.co.kr/learn/courses/30/lessons/12979?language=java) | 기지국 설치
 - [12987](https://programmers.co.kr/learn/courses/30/lessons/12987?language=java) | 숫자 게임
 - [17676](https://programmers.co.kr/learn/courses/30/lessons/17676?language=java) | [1차] 추석 트래픽
