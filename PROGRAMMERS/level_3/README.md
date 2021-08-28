@@ -40,6 +40,7 @@
 - [64064](https://programmers.co.kr/learn/courses/30/lessons/64064?language=java) | 불량 사용자
 - [67258](https://programmers.co.kr/learn/courses/30/lessons/67258?language=java) | 보석 쇼핑
 - [67259](https://programmers.co.kr/learn/courses/30/lessons/67259?language=java) | 경주로 건설
+- [70130](https://programmers.co.kr/learn/courses/30/lessons/70130?language=java) | 스타 수열
 - [72413](https://programmers.co.kr/learn/courses/30/lessons/72413?language=java) | 합승 택시 요금
 - [72414](https://programmers.co.kr/learn/courses/30/lessons/72414?language=java) | 광고 삽입
 - [72415](https://programmers.co.kr/learn/courses/30/lessons/72415?language=java) | 카드 짝 맞추기
