@@ -56,3 +56,4 @@
 - [77485](https://programmers.co.kr/learn/courses/30/lessons/77485?language=java) | 행렬 테두리 회전하기
 - [77885](https://programmers.co.kr/learn/courses/30/lessons/77885?language=java) | 2개 이하로 다른 비트
 - [81302](https://programmers.co.kr/learn/courses/30/lessons/81302?language=java) | 거리두기 확인하기
+- [84512](https://programmers.co.kr/learn/courses/30/lessons/84512?language=java) | 위클리 챌린지 5주차
