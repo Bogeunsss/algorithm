@@ -36,6 +36,7 @@
 - [49191](https://programmers.co.kr/learn/courses/30/lessons/49191?language=java) | 순위
 - [60059](https://programmers.co.kr/learn/courses/30/lessons/60059?language=java) | 자물쇠와 열쇠
 - [60061](https://programmers.co.kr/learn/courses/30/lessons/60061?language=java) | 기둥과 보 설치
+- [60062](https://programmers.co.kr/learn/courses/30/lessons/60062?language=java) | 외벽 점검
 - [60063](https://programmers.co.kr/learn/courses/30/lessons/60063?language=java) | 블록 이동하기
 - [64064](https://programmers.co.kr/learn/courses/30/lessons/64064?language=java) | 불량 사용자
 - [67258](https://programmers.co.kr/learn/courses/30/lessons/67258?language=java) | 보석 쇼핑
