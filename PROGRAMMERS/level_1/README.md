@@ -49,4 +49,5 @@
 - [77484](https://programmers.co.kr/learn/courses/30/lessons/77484?language=java) | 로또의 최고 순위와 최저 순위
 - [77884](https://programmers.co.kr/learn/courses/30/lessons/77884?language=java) | 약수의 개수와 덧셈
 - [81301](https://programmers.co.kr/learn/courses/30/lessons/81301?language=java) | 숫자 문자열과 영단어
-- [82612](https://programmers.co.kr/learn/courses/30/lessons/82612?language=java) | 1주차
+- [82612](https://programmers.co.kr/learn/courses/30/lessons/82612?language=java) | 위클리 챌린지 1주차
+- [85002](https://programmers.co.kr/learn/courses/30/lessons/85002?language=java) | 위클리 챌린지 6주차
