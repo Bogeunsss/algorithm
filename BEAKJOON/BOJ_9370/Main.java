@@ -8,10 +8,10 @@ import java.util.*;
 public class Main {
     public static final int INF = Integer.MAX_VALUE;
 
-    public static List<List<int[]>> graph = new ArrayList<>();
-    public static int[] d, candidates, route;
+    public static List<List<int[]>> graph;
+    public static int[] S, G, H, candidates;
 
-    public static void dijkstra(int src, int g, int h) {
+    public static void dijkstra(int src, int[] d) {
         PriorityQueue<int[]> pq = new PriorityQueue<>(new Comparator<int[]>() {
             @Override
             public int compare(int[] o1, int[] o2) {
@@ -35,23 +35,9 @@ public class Main {
 
                 if(d[next] > nextDistance) {
                     d[next] = nextDistance;
-                    if(route[next] == 0) route[next] = now;
                     pq.offer(new int[]{next, nextDistance});
                 }
             }
-        }
-
-        List<Integer> trace;
-
-        for(int candidate : candidates) {
-            trace = new ArrayList<>();
-
-            while(candidate != 0) {
-                trace.add(candidate);
-                candidate = route[candidate];
-            }
-
-            System.out.println(Arrays.toString(route));
         }
     }
 
@@ -59,8 +45,11 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int T = Integer.parseInt(br.readLine());
         StringTokenizer st;
+        List<Integer> answer;
 
         while(T-- > 0) {
+            answer = new ArrayList<>();
+
             st = new StringTokenizer(br.readLine(), " ");
             int n = Integer.parseInt(st.nextToken());
             int m = Integer.parseInt(st.nextToken());
@@ -71,8 +60,10 @@ public class Main {
             int g = Integer.parseInt(st.nextToken());
             int h = Integer.parseInt(st.nextToken());
 
-            d = new int[n+1];
-            route = new int[n+1];
+            graph = new ArrayList<>();
+            S = new int[n+1];
+            G = new int[n+1];
+            H = new int[n+1];
             candidates = new int[t];
 
             for(int i=0; i<=n; i++) {
@@ -88,11 +79,24 @@ public class Main {
                 graph.get(a).add(new int[]{b, d});
                 graph.get(b).add(new int[]{a, d});
             }
+
+            dijkstra(s, S);
+            dijkstra(g, G);
+            dijkstra(h, H);
+
             for(int i=0; i<t; i++) {
                 candidates[i] = Integer.parseInt(br.readLine());
+
+                if(S[candidates[i]] == (S[g] + G[h] + H[candidates[i]])) answer.add(candidates[i]);
+                else if(S[candidates[i]] == (S[h] + G[h] + G[candidates[i]])) answer.add(candidates[i]);
             }
 
-            dijkstra(s, g, h);
+            Collections.sort(answer);
+
+            for(int i=0; i<answer.size(); i++) {
+                System.out.print(answer.get(i) + " ");
+            }
+            System.out.println();
         }
     }
 }
