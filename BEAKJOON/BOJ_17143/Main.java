@@ -9,17 +9,9 @@ public class Main {
     public static final int[] dx = {-1, 1, 0, 0};
     public static final int[] dy = {0, 0, 1, -1};
 
-    public static int R, C, answer;
-    public static List<Shark> store;
-    public static PriorityQueue<Shark> sharks = new PriorityQueue<>(new Comparator<Shark>() {
-        @Override
-        public int compare(Shark o1, Shark o2) {
-            if(o1.c == o2.c) {
-                return o1.r - o2.r;
-            }
-            return o1.c - o2.c;
-        }
-    });
+    public static int R, C, M, answer;
+    public static int[][] map;
+    public static List<Shark> sharks = new ArrayList<>();
 
     public static class Shark {
         int r;
@@ -27,98 +19,97 @@ public class Main {
         int speed;
         int direction;
         int size;
+        boolean alive;
 
-        public Shark(int r, int c, int speed, int direction, int size) {
+        public Shark(int r, int c, int speed, int direction, int size, boolean alive) {
             this.r = r;
             this.c = c;
             this.speed = speed;
             this.direction = direction;
             this.size = size;
+            this.alive = alive;
         }
     }
 
-    public static void predation() {
-        store = new ArrayList<>();
-        store.addAll(sharks);
+    public static void predation(int[][] a, int x, int y, int now) {
 
-        for(int i=0; i<store.size()-1; i++) {
-            Shark A = store.get(i);
-
-            if(A == null) continue;
-            for(int j=i+1; j<store.size(); j++) {
-                Shark B = store.get(j);
-
-                if(B == null) continue;
-                if(A.r == B.r && A.c == B.c) {
-                    if(B.size > A.size) {
-                        store.set(i, null);
-                        break;
-                    }else {
-                        store.set(j, null);
-                    }
-                }
+        if(a[x][y] > 0) {
+            if(sharks.get(a[x][y]).size < sharks.get(now).size) {
+                sharks.get(a[x][y]).alive = false;
+                a[x][y] = now;
+            }else {
+                sharks.get(now).alive = false;
             }
-        }
-
-        for(int i=0; i<store.size(); i++) {
-            if(store.get(i) != null) {
-                sharks.offer(store.get(i));
-            }
+        }else {
+            a[x][y] = now;
         }
     }
 
     public static void move() {
-        store = new ArrayList<>();
-        int len = sharks.size();
+        int[][] afterMove = new int[R+1][C+1];
 
-        while(!sharks.isEmpty() && len-- > 0) {
-            Shark shark = sharks.poll();
+        for(int i=1; i<=M; i++) {
+            Shark shark = sharks.get(i);
+            if(!shark.alive) continue;
+
+            int x = shark.r;
+            int y = shark.c;
             int speed = shark.speed;
-            int d = 1;
+            int d = shark.direction;
+            int nx, ny;
 
-            while(speed-- > 0) {
-                int nx = shark.r + dx[shark.direction-1] * d;
-                int ny = shark.c + dy[shark.direction-1] * d;
+            while(true) {
+                nx = x + dx[d] * speed;
+                ny = y + dy[d] * speed;
 
-                if(nx <= 1 || nx >= R || ny <= 1 || ny >= C) {
-                    d *= -1;
+                if(0 < nx && nx <= R && 0 < ny && ny <= C) break;
+                if(d == 0 && nx <= 0) {
+                    speed -= x - 1;
+                    x = 1;
+                    d = 1;
+                }else if(d == 1 && nx > R) {
+                    speed -= R - x;
+                    x = R;
+                    d = 0;
+                }else if(d == 2 && ny > C) {
+                    speed -= C - y;
+                    y = C;
+                    d = 3;
+                }else if(d == 3 && ny <= 0) {
+                    speed -= y - 1;
+                    y = 1;
+                    d = 2;
                 }
-                shark.r = nx;
-                shark.c = ny;
-            }
-            if(d == -1) {
-                if(shark.direction == 1) shark.direction = 2;
-                else if(shark.direction == 2) shark.direction = 1;
-                else if(shark.direction == 3) shark.direction = 4;
-                else shark.direction = 3;
             }
 
-            store.add(shark);
+            predation(afterMove, nx, ny, i);
+
+            sharks.get(i).r = nx;
+            sharks.get(i).c = ny;
+            sharks.get(i).direction = d;
         }
-
-        sharks.addAll(store);
+        for(int i=1; i<=R; i++) {
+            for(int j=1; j<=C; j++) {
+                map[i][j] = afterMove[i][j];
+            }
+        }
     }
 
     public static void fishing() {
-        int len;
 
         for(int i=1; i<=C; i++) {
-            store = new ArrayList<>();
-            len = sharks.size();
+            for(int j=1; j<=R; j++) {
+                if(map[j][i] > 0) {
+                    Shark shark = sharks.get(map[j][i]);
 
-            while(!sharks.isEmpty() && len-- > 0) {
-                Shark shark = sharks.poll();
-
-                if(shark.c == i) {
+                    shark.alive = false;
                     answer += shark.size;
+                    map[j][i] = 0;
                     break;
                 }
-                store.add(shark);
             }
 
-            sharks.addAll(store);
             move();
-            predation();
         }
     }
 
@@ -128,11 +119,13 @@ public class Main {
 
         R = Integer.parseInt(st.nextToken());
         C = Integer.parseInt(st.nextToken());
-        int M = Integer.parseInt(st.nextToken());
+        M = Integer.parseInt(st.nextToken());
 
+        map = new int[R+1][C+1];
         answer = 0;
 
-        for(int i=0; i<M; i++) {
+        sharks.add(null);
+        for(int i=1; i<=M; i++) {
             st = new StringTokenizer(br.readLine(), " ");
 
             int r = Integer.parseInt(st.nextToken());
@@ -141,7 +134,9 @@ public class Main {
             int d = Integer.parseInt(st.nextToken());
             int z = Integer.parseInt(st.nextToken());
 
-            sharks.offer(new Shark(r, c, s, d, z));
+            Shark shark = new Shark(r, c, s, d - 1, z, true);
+            sharks.add(shark);
+            map[r][c] = i;
         }
 
         fishing();
