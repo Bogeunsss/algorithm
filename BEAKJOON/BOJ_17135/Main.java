@@ -11,17 +11,7 @@ public class Main {
     public static int n, m, d;
     public static int answer = 0;
 
-    public static Deque<Archer> archers = new ArrayDeque<>();
-
-    public static class Archer {
-        int x;
-        int y;
-
-        public Archer(int x, int y) {
-            this.x = x;
-            this.y = y;
-        }
-    }
+    public static Deque<int[]> archers = new ArrayDeque<>();
 
     public static int[][] copyField() {
         int[][] ret = new int[n+1][m];
@@ -35,18 +25,22 @@ public class Main {
         return ret;
     }
 
-    public static List<Archer> copyArchers() {
-        List<Archer> ret = new ArrayList<>();
+    public static List<int[]> copyArchers() {
+        List<int[]> ret = new ArrayList<>();
 
-        for(Archer archer : archers) {
-            ret.add(archer);
+        for(int[] archer : archers) {
+            int[] newArcher = new int[2];
+
+            newArcher[0] = archer[0];
+            newArcher[1] = archer[1];
+            ret.add(newArcher);
         }
 
         return ret;
     }
 
     public static void defense() {
-        List<Archer> newArchers = copyArchers();
+        List<int[]> newArchers = copyArchers();
         int[][] newField = copyField();
         boolean[][] visited = new boolean[n+1][m];
         int cnt = 0;
@@ -62,8 +56,8 @@ public class Main {
                     int dy = (distance - 1) * -1;
 
                     for(int k=1; k<2*distance; k++) {
-                        int nx = newArchers.get(j).x + dx;
-                        int ny = newArchers.get(j).y + dy;
+                        int nx = newArchers.get(j)[0] + dx;
+                        int ny = newArchers.get(j)[1] + dy;
 
                         dx = k >= distance ? dx + 1 : dx - 1;
                         dy++;
@@ -79,7 +73,7 @@ public class Main {
                         }
                     }
                 }
-                newArchers.get(j).x--;
+                newArchers.get(j)[0]--;
             }
             while(!q.isEmpty()) {
                 newField[q.peek()[0]][q.peek()[1]] = 0;
@@ -98,7 +92,7 @@ public class Main {
             return;
         }
 
-        archers.offer(new Archer(n, index));
+        archers.offer(new int[]{n, index});
         arrange(archer + 1, index + 1);
         archers.pollLast();
         arrange(archer, index + 1);
