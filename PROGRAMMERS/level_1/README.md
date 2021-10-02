@@ -51,3 +51,4 @@
 - [81301](https://programmers.co.kr/learn/courses/30/lessons/81301?language=java) | 숫자 문자열과 영단어
 - [82612](https://programmers.co.kr/learn/courses/30/lessons/82612?language=java) | 위클리 챌린지 1주차
 - [85002](https://programmers.co.kr/learn/courses/30/lessons/85002?language=java) | 위클리 챌린지 6주차
+- [86491](https://programmers.co.kr/learn/courses/30/lessons/86491?language=java) | 위클리 챌린지 8주차
