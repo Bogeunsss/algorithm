@@ -58,3 +58,4 @@
 - [81302](https://programmers.co.kr/learn/courses/30/lessons/81302?language=java) | 거리두기 확인하기
 - [84512](https://programmers.co.kr/learn/courses/30/lessons/84512?language=java) | 위클리 챌린지 5주차
 - [86048](https://programmers.co.kr/learn/courses/30/lessons/86048?language=java) | 위클리 챌린지 7주차
+- [86052](https://programmers.co.kr/learn/courses/30/lessons/86052?language=java) | 빛의 경로 사이클
