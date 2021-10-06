@@ -6,19 +6,10 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 public class Main {
-    /*
-        1. 일단 섬에 번호을 매기면서 구분한다.
-        2. 섬의 순서를 번갈아가며 다리를 놓아본다.
-            - ex) 1 2 3 4, 1 2 4 3, 1 3 2 4 ...
-        3. 다리를 놓을 때, 섬의 가장자리에서 놓는다.
-            - 직선으로 쭉 가보고 섬이 있으면 설치
-            - 두 섬이 연결되면 연결 표시를 남긴다.
-     */
     public static final int[] dx = {-1, 1, 0, 0};
     public static final int[] dy = {0, 0, -1, 1};
     public static final int INF = Integer.MAX_VALUE;
 
-    // 섬의 번호와 좌표를 저장
     public static Map<Integer, List<int[]>> islands = new HashMap<>();
     public static List<int[]> bridges = new ArrayList<>();
     public static Stack<Integer> stack = new Stack<>();
@@ -33,7 +24,6 @@ public class Main {
         return x < 0 || x >= n || y < 0 || y >= m;
     }
 
-    // 섬 구분
     public static void search(int _x, int _y, int idx) {
         Queue<int[]> q = new LinkedList<>();
 
