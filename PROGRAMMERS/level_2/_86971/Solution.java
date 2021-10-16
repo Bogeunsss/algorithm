@@ -54,10 +54,4 @@ public class Solution {
 
         return cut(-1);
     }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution().solution(9, new int[][]{{1,3},{2,3},{3,4},{4,5},{4,6},{4,7},{7,8},{7,9}}));
-        System.out.println(new Solution().solution(4, new int[][]{{1,2},{2,3},{3,4}}));
-        System.out.println(new Solution().solution(7, new int[][]{{1,2},{2,7},{3,7},{3,4},{4,5},{6,7}}));
-    }
 }
