@@ -59,3 +59,4 @@
 - [84512](https://programmers.co.kr/learn/courses/30/lessons/84512?language=java) | 위클리 챌린지 5주차
 - [86048](https://programmers.co.kr/learn/courses/30/lessons/86048?language=java) | 위클리 챌린지 7주차
 - [86052](https://programmers.co.kr/learn/courses/30/lessons/86052?language=java) | 빛의 경로 사이클
+- [86971](https://programmers.co.kr/learn/courses/30/lessons/86971?language=java) | 위클리 챌린지 9주차
