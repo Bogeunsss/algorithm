@@ -61,3 +61,4 @@
 - [86052](https://programmers.co.kr/learn/courses/30/lessons/86052?language=java) | 빛의 경로 사이클
 - [86971](https://programmers.co.kr/learn/courses/30/lessons/86971?language=java) | 위클리 챌린지 9주차
 - [87377](https://programmers.co.kr/learn/courses/30/lessons/87377?language=java) | 위클리 챌린지 10주차
+- [87390](https://programmers.co.kr/learn/courses/30/lessons/87390?language=java) | n^2 배열 자르기
