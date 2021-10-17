@@ -7,7 +7,7 @@ import java.util.Objects;
 
 public class Solution {
 
-    private static class Point {
+    public static class Point {
         long x;
         long y;
 
