@@ -52,3 +52,4 @@
 - [81303](https://programmers.co.kr/learn/courses/30/lessons/81303?language=java) | 표 편집
 - [84021](https://programmers.co.kr/learn/courses/30/lessons/84021?language=java) | 위클리 챌린지 3주차
 - [84325](https://programmers.co.kr/learn/courses/30/lessons/84325?language=java) | 위클리 챌린지 4주차
+- [87694](https://programmers.co.kr/learn/courses/30/lessons/87694?language=java) | 위클리 챌린지 11주차
