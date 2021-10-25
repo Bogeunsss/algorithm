@@ -53,4 +53,5 @@
 - [84021](https://programmers.co.kr/learn/courses/30/lessons/84021?language=java) | 위클리 챌린지 3주차
 - [84325](https://programmers.co.kr/learn/courses/30/lessons/84325?language=java) | 위클리 챌린지 4주차
 - [86053](https://programmers.co.kr/learn/courses/30/lessons/86053?language=java) | 금과 은 운반하기
+- [87391](https://programmers.co.kr/learn/courses/30/lessons/87391?language=java) | 공 이동 시뮬레이션
 - [87694](https://programmers.co.kr/learn/courses/30/lessons/87694?language=java) | 위클리 챌린지 11주차
