@@ -62,3 +62,4 @@
 - [86971](https://programmers.co.kr/learn/courses/30/lessons/86971?language=java) | 위클리 챌린지 9주차
 - [87377](https://programmers.co.kr/learn/courses/30/lessons/87377?language=java) | 위클리 챌린지 10주차
 - [87390](https://programmers.co.kr/learn/courses/30/lessons/87390?language=java) | n^2 배열 자르기
+- [87946](https://programmers.co.kr/learn/courses/30/lessons/87946?language=java) | 위클리 챌린지 12주차
