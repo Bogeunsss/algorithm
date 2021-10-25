@@ -30,9 +30,4 @@ public class Solution {
 
         return answer;
     }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution().solution(10, 10, new int[]{100}, new int[]{100}, new int[]{7}, new int[]{10}));
-        System.out.println(new Solution().solution(90, 500, new int[]{70,70,0}, new int[]{0,0,500}, new int[]{100,100,2}, new int[]{4,8,1}));
-    }
 }
