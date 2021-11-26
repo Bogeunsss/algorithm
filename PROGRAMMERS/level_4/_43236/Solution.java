@@ -31,9 +31,4 @@ public class Solution {
 
         return answer;
     }
-
-    public static void main(String[] args) {
-
-        System.out.println(new Solution().solution(25, new int[]{2, 14, 11, 21, 17}, 2));
-    }
 }
